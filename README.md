@@ -1,4 +1,4 @@
-# Project Name
+<!-- # Project Name
 
 example image:
 
@@ -6,42 +6,47 @@ example image:
 ![alternative text](reports/img/pic01.jpg)
 
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Active, On-Hold, Completed] -->
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
-
+The purpose of this project is to analyze the World's volcanoes. We use visualizations to take a general look at the volcanoes using a dataset that is also provided. The visualizations are interactive, and can be selected and modified by the user.
+<!-- 
 ### Partner
 * [Name of Partner organization/Government department etc..]
 * Website for partner
 * Partner contact: [Name of Contact]
-* If you do not have a partner leave this section out
+* If you do not have a partner leave this section out -->
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
+<!-- * Inferential Statistics
+* Machine Learning -->
 * Data Visualization
-* Predictive Modeling
-* etc.
+<!-- * Predictive Modeling
+* etc. -->
 
 ### Technologies
-* R
+* Python
+* Pandas
+* Seaborn
+* Plotly
+* Streamlit
+<!-- * R
 * Python
 * D3
 * PostGres, MySql
 * Pandas, jupyter
 * HTML
 * JavaScript
-* etc.
+* etc. -->
 
-## Project Description
+<!-- ## Project Description
 (Provide more detailed overview of the project.
 Talk a bit about your data sources and what questions and hypothesis you are exploring.
 What specific data analysis/visualization and modelling work are you using to solve the
 problem? What blockers and challenges are you facing?
-Feel free to number or bullet point things here)
+Feel free to number or bullet point things here) -->
 
-## Getting Started
+<!-- ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
@@ -69,4 +74,4 @@ create another "setup.md" file and link to it here*
 #### Other Members:
 
  - [Full Name](https://github.com/[github handle])
- - [Full Name](https://github.com/[github handle])
+ - [Full Name](https://github.com/[github handle]) -->
