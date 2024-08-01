@@ -9,7 +9,7 @@ example image:
 #### -- Project Status: [Active, On-Hold, Completed] -->
 
 ## Project Intro/Objective
-The purpose of this project is to analyze the World's volcanoes. We use visualizations to take a general look at the volcanoes using a dataset that is also provided. The visualizations are interactive, and can be selected and modified by the user. The streamlit app can be accessed via this [link](https://my-first-app-on-volcanoes.streamlit.app/).
+The purpose of this project is to analyze the World's volcanoes, and to explore how to deploy a streamlit app in the process. We use visualizations to take a general look at the volcanoes using a dataset that is also provided. The visualizations are interactive, and can be selected and modified by the user. The streamlit app can be accessed via this [link](https://my-first-app-on-volcanoes.streamlit.app/).
 <!-- 
 ### Partner
 * [Name of Partner organization/Government department etc..]
